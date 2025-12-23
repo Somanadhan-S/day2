@@ -24,4 +24,9 @@ switch (day) {
     break;
   default:
   print("nothing");
+  sdjfasidhfadfnvsD
+  ssdvn;sdjvlkcv;sdjvlkcvfnvkSv
+  sdvknKcnv;skdlcv
+  'kjSdblNdvlSndv
+  jsbdvlsndvlsd'
 }
